@@ -1,2 +1,2 @@
 # Zadanie3
-Straszny mazut
+Straszny mazut mazut mazu
